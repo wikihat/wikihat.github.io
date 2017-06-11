@@ -7,7 +7,7 @@ Email address: <a href="mailto:admin@wikihat.com">admin@wikihat.com</a>
 
 <body onload="winClose();">
 
-<span id="e">thanks to visit wikihat.com</span>
+<span id="e">### wikihat.com ###</span>
 <br>
                                            
                    +@@                     
