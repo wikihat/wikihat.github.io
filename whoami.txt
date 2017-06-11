@@ -2,11 +2,7 @@
 WikiHat
 Email address: <a href="mailto:admin@wikihat.com">admin@wikihat.com</a>
 <span id="a">root</span>@<span id="e">wikihat</span>:<span id="b">~</span>$ cat index.php
-<br>
-<br><pre style="font: 10px/5px monospace; text-align: center;">      
-
-<body onload="winClose();">
-
+<pre style="font: 10px/5px monospace; text-align: center;">      
 <span id="e">### wikihat.com ###</span>
 <br>
                                            
